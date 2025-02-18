@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shadowlast/Documents/projects/kifiya/kifiya_week8-9/notebooks/mlruns/0/30e0bc1d32274cc3bb188fa0cbe9b162/artifacts
+end_time: 1739897455056
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30e0bc1d32274cc3bb188fa0cbe9b162
+run_name: Gradient Boosting
+run_uuid: 30e0bc1d32274cc3bb188fa0cbe9b162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739897445665
+status: 3
+tags: []
+user_id: shadowlast

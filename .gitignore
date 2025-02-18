@@ -6,6 +6,7 @@ __pycache__/
 /Data
 *.csv
 /mlruns
+/models_runtime
 # C extensions
 *.so
 
