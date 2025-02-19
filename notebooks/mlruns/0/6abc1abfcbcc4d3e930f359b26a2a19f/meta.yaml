@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shadowlast/Documents/projects/kifiya/kifiya_week8-9/notebooks/mlruns/0/6abc1abfcbcc4d3e930f359b26a2a19f/artifacts
+end_time: 1739897475458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6abc1abfcbcc4d3e930f359b26a2a19f
+run_name: Logistic Regression
+run_uuid: 6abc1abfcbcc4d3e930f359b26a2a19f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739897466928
+status: 3
+tags: []
+user_id: shadowlast

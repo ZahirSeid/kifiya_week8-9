@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shadowlast/Documents/projects/kifiya/kifiya_week8-9/notebooks/mlruns/0/287910bc601549379cd4aa4162c9ac40/artifacts
+end_time: 1739896721924
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 287910bc601549379cd4aa4162c9ac40
+run_name: Decision Tree
+run_uuid: 287910bc601549379cd4aa4162c9ac40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739896719890
+status: 3
+tags: []
+user_id: shadowlast
