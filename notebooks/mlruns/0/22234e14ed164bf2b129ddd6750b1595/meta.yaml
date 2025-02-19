@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shadowlast/Documents/projects/kifiya/kifiya_week8-9/notebooks/mlruns/0/22234e14ed164bf2b129ddd6750b1595/artifacts
+end_time: 1739937644420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22234e14ed164bf2b129ddd6750b1595
+run_name: model
+run_uuid: 22234e14ed164bf2b129ddd6750b1595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739937378358
+status: 3
+tags: []
+user_id: shadowlast
