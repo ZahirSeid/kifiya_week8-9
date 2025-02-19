@@ -1,0 +1,14 @@
+flask
+fastapi
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+dash
+plotly
+pandas
+datetime
+socket
+struct
+torch
